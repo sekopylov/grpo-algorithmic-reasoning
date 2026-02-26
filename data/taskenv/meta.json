@@ -1,0 +1,31 @@
+{
+  "train_size": 8192,
+  "val_size": 1280,
+  "val_per_difficulty": 128,
+  "train_difficulties": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "val_difficulties": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "modulus": 1000,
+  "max_steps": 220
+}
